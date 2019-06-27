@@ -16,5 +16,30 @@ namespace Prova02_LP_B
         {
             InitializeComponent();
         }
+
+        private void BtnOption1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOption2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOption3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOption4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnOption5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
