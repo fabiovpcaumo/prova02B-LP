@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormExercicio02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExercicio02.Designer.cs">
+      <DependentUpon>FormExercicio02.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormOption1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     <Compile Include="TextBoxHelper.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExercicio02.resx">
+      <DependentUpon>FormExercicio02.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormOption1.resx">
       <DependentUpon>FormOption1.cs</DependentUpon>

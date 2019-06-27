@@ -34,6 +34,7 @@
             this.btnOption4 = new System.Windows.Forms.Button();
             this.btnOption5 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnExercicio02 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOption1
@@ -95,11 +96,22 @@
             this.label1.TabIndex = 5;
             this.label1.Text = "Opções";
             // 
+            // btnExercicio02
+            // 
+            this.btnExercicio02.Location = new System.Drawing.Point(566, 56);
+            this.btnExercicio02.Name = "btnExercicio02";
+            this.btnExercicio02.Size = new System.Drawing.Size(75, 23);
+            this.btnExercicio02.TabIndex = 6;
+            this.btnExercicio02.Text = "Exercicio 2";
+            this.btnExercicio02.UseVisualStyleBackColor = true;
+            this.btnExercicio02.Click += new System.EventHandler(this.BtnExercicio02_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(787, 374);
+            this.Controls.Add(this.btnExercicio02);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnOption5);
             this.Controls.Add(this.btnOption4);
@@ -121,6 +133,7 @@
         private System.Windows.Forms.Button btnOption4;
         private System.Windows.Forms.Button btnOption5;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnExercicio02;
     }
 }
 

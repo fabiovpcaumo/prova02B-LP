@@ -47,7 +47,14 @@ namespace Prova02_LP_B
 
         private void BtnOption5_Click(object sender, EventArgs e)
         {
+            Application.Exit();
+        }
 
+        private void BtnExercicio02_Click(object sender, EventArgs e)
+        {
+            FormExercicio02 formExercicio02 = new FormExercicio02();
+            formExercicio02.Show();
+            this.Hide();
         }
     }
 }

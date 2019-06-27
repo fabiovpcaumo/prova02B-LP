@@ -11,3 +11,4 @@ C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C
 C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.pdb
 C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.FormOption2.resources
 C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.FormOption4.resources
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.FormExercicio02.resources
