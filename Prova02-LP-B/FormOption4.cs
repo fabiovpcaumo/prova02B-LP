@@ -29,7 +29,6 @@ namespace Prova02_LP_B
                 int aux = valorA;
                 valorA = valorB;
                 valorB = aux;
-                Console.WriteLine("Valor A: " + valorA.ToString() + "\nValor B: " + valorB.ToString());
 
                 tbValorA.Text = valorA.ToString();
                 tbValorB.Text = valorB.ToString();
