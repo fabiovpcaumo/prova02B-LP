@@ -1,0 +1,11 @@
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\bin\Debug\Prova02-LP-B.exe.config
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\bin\Debug\Prova02-LP-B.exe
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\bin\Debug\Prova02-LP-B.pdb
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.csprojAssemblyReference.cache
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.Form1.resources
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.FormOption1.resources
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02_LP_B.Properties.Resources.resources
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.csproj.GenerateResource.cache
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.exe
+C:\Users\Fabio Caumo\OneDrive - Fatec Centro Paula Souza\Documents\Development\C# Files\Prova02-LP-B\Prova02-LP-B\obj\Debug\Prova02-LP-B.pdb
