@@ -28,12 +28,78 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.tbValorA = new System.Windows.Forms.TextBox();
+            this.btnInvert = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.tbValorB = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            // 
+            // tbValorA
+            // 
+            this.tbValorA.Location = new System.Drawing.Point(344, 128);
+            this.tbValorA.Name = "tbValorA";
+            this.tbValorA.Size = new System.Drawing.Size(100, 20);
+            this.tbValorA.TabIndex = 0;
+            // 
+            // btnInvert
+            // 
+            this.btnInvert.Location = new System.Drawing.Point(360, 252);
+            this.btnInvert.Name = "btnInvert";
+            this.btnInvert.Size = new System.Drawing.Size(75, 23);
+            this.btnInvert.TabIndex = 1;
+            this.btnInvert.Text = "Inverter";
+            this.btnInvert.UseVisualStyleBackColor = true;
+            this.btnInvert.Click += new System.EventHandler(this.BtnInvert_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(227, 128);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Valor A";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(227, 171);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(41, 13);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Valor B";
+            // 
+            // tbValorB
+            // 
+            this.tbValorB.Location = new System.Drawing.Point(344, 171);
+            this.tbValorB.Name = "tbValorB";
+            this.tbValorB.Size = new System.Drawing.Size(100, 20);
+            this.tbValorB.TabIndex = 3;
+            // 
+            // FormOption4
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.tbValorB);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnInvert);
+            this.Controls.Add(this.tbValorA);
+            this.Name = "FormOption4";
             this.Text = "FormOption4";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.TextBox tbValorA;
+        private System.Windows.Forms.Button btnInvert;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbValorB;
     }
 }
